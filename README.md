@@ -12,3 +12,4 @@ Most/all are nonpublic and accessible only by team members.
 *   [18F Slack channel](https://gsa.enterprise.slack.com/archives/C07CN5C6LRH)
 *   [Maryland FAMLI draft regulations (PDF)](https://paidleave.maryland.gov/Documents/FAMLI%20DRAFT%20Regs%20Complete%20Set%20as%20of%2007.09.24.pdf)
 *   [Maryland FAMLI FAQ (PDF)](https://paidleave.maryland.gov/Documents/Frequently%20Asked%20Questions%20from%20Employers%20May%202024.pdf)
+*   [18F running notes doc](https://docs.google.com/document/d/1rOMrMMr0mNHrpRXEwE8uRnpo61DIzzp-beO_db_8Z5c/edit#heading=h.m2cqb3wxtdpb)
